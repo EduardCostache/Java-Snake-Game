@@ -4,8 +4,8 @@ A simple recreation of the famous Snake with Java.
 
  
  <p align="middle">
-  <img src="https://user-images.githubusercontent.com/22495902/154516743-4148fe4f-83a2-43a5-8f88-679fe44da054.PNG" width="500" />
-  <img src="https://user-images.githubusercontent.com/22495902/154516740-e8b499ee-2025-4a0b-a753-967d73bb1bb2.PNG" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/22495902/154516743-4148fe4f-83a2-43a5-8f88-679fe44da054.PNG" width="300" />
+  <img src="https://user-images.githubusercontent.com/22495902/154516740-e8b499ee-2025-4a0b-a753-967d73bb1bb2.PNG" width="300" /> 
 </p>
 
 
